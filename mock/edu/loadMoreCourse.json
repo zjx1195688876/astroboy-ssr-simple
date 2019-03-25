@@ -1,0 +1,188 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "alias": "3nlo73rkkw1vb",
+        "courseType": 0,
+        "id": 451400518,
+        "kdtId": 42095703,
+        "num": 0,
+        "pictureWrapDTO": {
+          "height": 490,
+          "id": 1287134436,
+          "url": "https://img.yzcdn.cn/upload_files/2019/01/16/FqtxJnERcHP2ElptqhNroEnc1JPR.png",
+          "width": 490
+        },
+        "price": 1,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABvklEQVR42u2YMY6DQAxFjaagzBHmJuFiSCBxMbjJHIFyCsTf/z3JKqy0rbNahWKSyUth2f7fTgy/PfYhf53MZnYDemAB3y2F9xRKFuC8zdm6PRViFPhnkaTY/bagdvtIzGtlgPFktmo26pjeRHgMjA3nW4jqw+ZQYvqV5Fq5AOI9yqrcn8e1ewOIPwdLwyL12NMPBUeQgpXh1AFHVq9kXqZQcli/6VhbdhTgoz5RhM1xN8s6jFFOYLemUHKYDcxRfxLzGBXqEkoAdSb6jRGpPQtdawolR67Dzg5xyzSl6Hw4RRTxeyrYqFhIJf6dSAKlYzQXCFQfx5Fkzgzm8Kkp34RbZiihOgemiDplpRQlA0zBhOqUR6ozdVQLJrRqLQ1tUpGUlqdAMrtRMjuKiHNbmxxCCQ+tbj4rq7vW+lRJEGmLExvVxcoOqR1iCWWxtb0RrhKEEzqU18c9EvRNHyCRxJ9FAbpOWST7rlwMafubZtakRTY144gkbYflz5hdI1uxdXuKJdrj0UY2e5Sv3aM+oeRoLs0ivWyQoUTLo8Q6yK8v2Ykgqk9bYGQXlikahBLv0ZexUa4qCSCff3H+GfkC53DXVOduo7MAAAAASUVORK5CYII=",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/zSN5o9",
+        "skuSize": 4,
+        "title": "0121最后一波回归测试课程商品",
+        "totalSoldNum": 5,
+        "totalStock": 19
+      },
+      {
+        "alias": "2x5fujv09q1x3",
+        "courseType": 0,
+        "id": 451302801,
+        "kdtId": 42095703,
+        "num": 0,
+        "pictureWrapDTO": {
+          "height": 442,
+          "id": 1287134441,
+          "url": "https://img.yzcdn.cn/upload_files/2019/01/16/FtWxZbLla3voV2r2GpWZbzp6knpn.png",
+          "width": 444
+        },
+        "price": 1000,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABw0lEQVR42u2YMW7DMAxFaWTQ6CP4JvbFDMSALxbfREfQqMEw+z+VNGmArt9FEQ1C5deBED8/qZj/tuxD/jpZzKx3T+6r468143yRktX96PchHTjXydfs8U1Jso09w7Krp61cckWAerIMvhXjdhbZB5tAkpfrCYT58cwtZPKWOQEJja65jo/tp3oFpK3sG/6njpDJWwUriPFsHbB1BWHdei1ZBnzkVq7MD7Qyykk6elyM9bulLYT6UIiK4IyLgVehQCbfLYxDSdypTNjUw68r70lKWJi7QaNrTrfQqJggGFg1PjKsKY53hciI+10Xu1VaZitWIYFHHjYb/LpVSWvjSsLU3PtEaxY17EJIcDs3GnToglt9mV1EBDaFrMTgxPzYUyEaQq+iJLYQB/pnVKySoDq3Mg+JSULzRoCdu5igSe0DCmRuswtHKDEx+ANKBWE5B1kGKCWLOW2KWcl0ClTs90tCQ2KtHu0qxPHSSzSkzW+cWNA/w76719eUgLQZFq3T5iFMgg1ES+ItkznEsWtideUEgvkNsRla5xKloiee2+1Qns+OoSLtTeu8mBjink4hIqFRdmvoAnV64TjnUvL5FeefkS8FZh4/6Fk9ZQAAAABJRU5ErkJggg==",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/MNMRo9",
+        "skuSize": 2,
+        "title": "ys-课程商品回归",
+        "totalSoldNum": 4,
+        "totalStock": 196,
+        "videoModel": {
+          "bucketId": 1,
+          "categoryId": 0,
+          "coverHeight": "428",
+          "coverUrl": "https://img.yzcdn.cn/upload_files/2019/01/16/FqZ5_OAaeIREn4_sKlbzv8MxkT6f.png",
+          "coverWidth": "428",
+          "createTime": "2019-01-16 18:24:30",
+          "isPublished": 1,
+          "playedCount": 1,
+          "status": 4,
+          "videoDuration": 2337,
+          "videoId": 1981307,
+          "videoName": "111",
+          "videoPath": "/jwbRwB71pr0ZKq8TWnGi14tb8ezPXsvf.mov.f30.mp4",
+          "videoSize": 283574608
+        }
+      },
+      {
+        "alias": "2ogkrcbgmeu3b",
+        "courseType": 0,
+        "id": 451604554,
+        "kdtId": 42095703,
+        "num": 0,
+        "pictureWrapDTO": {
+          "height": 683,
+          "id": 1292035629,
+          "url": "https://img.yzcdn.cn/upload_files/2019/01/23/FjEv8TWA99yYGhyDkILukfHSgEqe.jpeg",
+          "width": 1024
+        },
+        "price": 0,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABt0lEQVR42u2YTY6DMAyFjVhkyRFyE7gYEkhcrNwkR8gyC4TnPYdCp1KXdUejsrCAb/MUP/+A6KtLvuSvk1lEuiXprduirrlNeG5dyaK6d4uGVWtIau88SZK+Y6Cim7SpQKo/0Xo6pf8YsZcSpVH9ALH8pKC51cDTecrc+8nh0dLfw7N7307smnGTJYY1T08V7EEOjzIrBbok7HdtTgSyVnD4gkFGsbL1JQEFItYkEGbeqTMpg26RpSLoFIJwavMh9jylsKNY4RCJZ5V4kTmyRJPubFM98hO8CbXBHNBmbp1NqjORJvN0LDWPVeJF4BCeCUOUIY/0yuJKEBokSViiZcjQxs7tSUxbmzAs5CgVZMqbID8KWTAqt6dyzRIfsijWlgmzkqkZqmG8CbS17BRUyRJdz4nuRZAQOKTJIyc4LZMnX4KswKMo0TGaLLn2KieihfmxqWm96jE/LuTYXVindAjTpYsrsf1N67CoY6M58uNFzCEbJxW+ptimyq+vKQ9y7G9D9SikDvkjxBZoE3idjitRc6a1i3OLdiNaR4R1bhr13CC9iHmUGyR8Ifyog1EnV/L9i/PPyA9w64XEDXnnJgAAAABJRU5ErkJggg==",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/rjdTo9",
+        "skuSize": 0,
+        "title": "美国最大010",
+        "totalSoldNum": 4,
+        "totalStock": 7
+      },
+      {
+        "alias": "3nvhqvzpi8rxz",
+        "courseType": 0,
+        "id": 452451701,
+        "kdtId": 42095703,
+        "num": 0,
+        "pictureWrapDTO": {
+          "height": 280,
+          "id": 1295575962,
+          "url": "https://img.yzcdn.cn/upload_files/2019/01/30/FqHI7NIQjUMp7N9whd_yKv3tFqJH.png",
+          "width": 500
+        },
+        "price": 100,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABv0lEQVR42u2YQY6DMAxFjVhkmSNwE7gYEkhcjNwkR2CZBcLz7bSFVprtZzQqiyjp21jx97dT0d8++ZK/TmYRiapBdVHsloxzSyWL6hH3Lhw4l0GXrP4bk2Tpo4Ulk4a0tbkgQD6ZO02b2HIX2TsZQBDbdAOx/CAnSZGkNX5mjkBco0su/XN5Vy+B+LfbZu5KD5m8VzCFCM5ZBuCgG8JaI5fMnTS22BXBLqCVnk7CEWfRFXmBRscuvBTCIjirolSkhTy3Udw4mES1+DYhouJqbbaJS3LVKEgOq2uUTKw6oVE3Ce8YRR4KYRFYtZpRWoDFLLMWK5XgTqCLAXfiWM7YOGS32GqfyE+FtFSymDktD13YUi6zC4dYMGPnYXnrlIt2KMS8yiSRXBxRc0gXF2MQVGfafHAaxe4pw76VTHDea2347GIjFJnI4AHCudW75nHOVRRi7Sp616xOgYp9vSQ4xD80i14g1MZ2Zy/hkDq/qfdtxIYpurm+pgjkMcP6KG1tw5xi4hJ/y+RaohagNNsNBApBfiSYVoLeQTRXhVjjOjsGi9Q3bZ0g4ZsXpyAR16h1a+jCNGrjnFLJ91+cf0Z+AGn5Ar8lxc9kAAAAAElFTkSuQmCC",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/i-Cyo9",
+        "skuSize": 2,
+        "title": "测试图片压缩",
+        "totalSoldNum": 4,
+        "totalStock": 26
+      },
+      {
+        "alias": "3eu9h9pqk2llj",
+        "courseType": 0,
+        "id": 452194367,
+        "kdtId": 42095703,
+        "num": 0,
+        "pictureWrapDTO": {
+          "height": 1334,
+          "id": 1295943654,
+          "url": "https://img.yzcdn.cn/upload_files/2019/02/15/FpxINzreICmYoZ45PBPueOTRkahv.png",
+          "width": 750
+        },
+        "price": 0,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABvUlEQVR42u2YQa6DMAxEXbHIkiPkJuViSEXiYnCTHIEliwj/GdNCq+pvp19fzSJKeJsoHo8dzH8b9iV/nQxm1ron99GxGgv2jZSM7ltbc9qwXzsfi8c3JSl2bXksu3mal6asOKCeDNnnxTh9imB1AUm+3D5AGB8vPrXV0vwWOQEJjY5lvT6mV/UKSIxqOCAJZPKawRJi2BfrfMgIEsjUagn3nHAnDE3NIRgtSVs7GJQ5GLKkz+lQiIpQmU5xeEGW9BbGoSTuVGbYlMcVrREkJSlwaWiUKZqm0KiYIDdg1fjILOlie1eIitS8dmGUOGCs9mQVEpTsDXGxDncS2OzIYA2p2R914j5dlkZKIM9TF5zWs3dRkfCqOJYxPsftqAicYuNyDnHQLubTqyQE2TmHOGBTUbhwVBeTKFLQBawakSpsocTEurApNnFsZHlAKUGlmtjDdtEwLMzY4yWhITFCnn2OFH2qJRqy9298xoRbsmY9v6YEZO9h2UIZFdLQKW5aEm+ZEk0cCMZl+QBB/3a13iDUGs8JPWH3ZFAI5XlWDBXZ37TOi0H9fHYKEQmNslpDF9Qo2zmXku9fnH9GfgCey+6roxgwtAAAAABJRU5ErkJggg==",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/ou_To9",
+        "skuSize": 3,
+        "title": "测试好友助力",
+        "totalSoldNum": 3,
+        "totalStock": 27
+      },
+      {
+        "alias": "1ygf4hyl5pfxj",
+        "courseType": 1,
+        "id": 451720285,
+        "kdtId": 42095703,
+        "num": 0,
+        "pictureWrapDTO": {
+          "height": 4000,
+          "id": 1291724070,
+          "url": "https://img.yzcdn.cn/upload_files/2019/01/23/FmBUfnyxSxOsXBUnVZE0B0ERB4YG.jpg",
+          "width": 6000
+        },
+        "price": 320,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABtUlEQVR42u2YQa7CMAxEjbroskfoTdqLIVEpF6M3yRG6zKLK/LEDFIT+dvj6Ioso7WNh1WOPg+G3ZV/y18liZgPQAwk8pcznTkoSUId97Cufy4yUEe+UJNs0eFh2Qb9uXS4MUE+WEetmvn2K8HTaOiZpu3yAeH6QW5LWt8wJSGg05TLdt1f1CkisfWRsCWWiTF4rWEKMz7m/tiSR+ElJltFO3Apf5ogyBKMlfR08SXY2xnYe+4dCVMSoTLg4kG3eiKdBS4ASRzYJFMozl0iSkLA2ZuwGL9H+GhqVE9Sm0fhN8l4FKdlbq6YudiszT61YtaS6PGd+k8D2FJuK3J2qmUVx71CSBOqiu+nCt3LMLioS/SFiM8/P4+uoSPQqIGQS7cKtU0pYnav3yNX7dfUAT4CY0KR2fh0jZqfI0bW0xGaXifs2fJANB1eSxXANcbhtUCHmJymJxSSBdtVs4/ASDWnzmxerGbF71vNtSkDaDIsY5mN4LHbr1zISd5k2OUSAdvi2kDCsibZB62TjwCeIT0+s0+LyPBxDRdqdFqGQ+tIpRCQ06m5NXbBOOx/nICXff3H+GfkB1LMBnYsZMKMAAAAASUVORK5CYII=",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/Mu_To9",
+        "skuSize": 1,
+        "title": "复制预发测试gq123",
+        "totalSoldNum": 3,
+        "totalStock": 1,
+        "videoModel": {
+          "bucketId": 1,
+          "categoryId": 0,
+          "coverHeight": "428",
+          "coverUrl": "https://img.yzcdn.cn/upload_files/2019/01/16/FqZ5_OAaeIREn4_sKlbzv8MxkT6f.png",
+          "coverWidth": "428",
+          "createTime": "2019-01-16 18:24:30",
+          "isPublished": 1,
+          "playedCount": 1,
+          "status": 4,
+          "videoDuration": 2337,
+          "videoId": 1981307,
+          "videoName": "111",
+          "videoPath": "/jwbRwB71pr0ZKq8TWnGi14tb8ezPXsvf.mov.f30.mp4",
+          "videoSize": 283574608
+        }
+      },
+      {
+        "alias": "2olitntssfrk7",
+        "courseType": 1,
+        "id": 450853423,
+        "kdtId": 42095703,
+        "num": 9999,
+        "pictureWrapDTO": {
+          "height": 442,
+          "id": 1287134441,
+          "url": "https://img.yzcdn.cn/upload_files/2019/01/16/FtWxZbLla3voV2r2GpWZbzp6knpn.png",
+          "width": 444
+        },
+        "price": 8800,
+        "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABwElEQVR42u2YMa6DQAxEHVFsyRH2JnCxSCBxsXCTPQLlFgj/GZMQoui3k6+vUKwgr7Hs8dgb898e+5K/TkYza92T++R4mwq+GymZ3Ld2zWnDd+19Kh6/KUmxrmVYNnial6ZUBKgnY/Z5MR6fInjrlwZFWoYPENbH4yhpfqucgIRGp1K7x/GqXgGJZ804xlw7yOS1gyXEOrtmJAZRXhaQW6slY7YLjnSDLhKjDMFoSdpaFsmujA1RHgpREUNiIM8N4kCXAHetlrjXeIVJeIU8S40iKUmBS6/mbNF0C42KyWiIaChUSImJUe2hEBXZrZrytNrjbW9WIVlzpUDh10N0yT7GlcQpjn1O8ECyLksjJZDnUxc86ml30ZACf0BVYnFifY7sqAicIqbmHOK4j04pQXfO4ZGwKadhwb5dTDik6FBXo1OUcC0tsZ4pio7lIssApWQ0xIbRSQyNsmOPm4SGxDNhhUeRokVPs0RD9v3N4dcRG2fW+TYlIPcdNlaoWB45QLQk7jKxzEOtdO5HdqQECkFs7BJOr08Q9Cmzw7ntz4mhIvudNhKDi+3ZKUQkNMppDV1UXurqsUWLyPdfnH9GfgCNi+W+Y/4OcwAAAABJRU5ErkJggg==",
+        "sellStatus": 0,
+        "shortenUrl": "https://j.youzan.com/tu_To9",
+        "skuSize": 2,
+        "title": "正式课-多规格-课程商品-啦啦啦啦啦啦～啦啦啦啦啦啦～啦啦啦啦啦啦～脑子疼😄",
+        "totalSoldNum": 2,
+        "totalStock": 1
+      }
+    ],
+    "pageable": true,
+    "total": 100
+  }
+}
