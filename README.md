@@ -1,4 +1,5 @@
 # 1. 目录结构
+```
 - build
 - static
 - app
@@ -23,6 +24,7 @@
   |- entty-client.js
 - package.json
 - README.md
+```
 
 
 ## 2. 本地开发
