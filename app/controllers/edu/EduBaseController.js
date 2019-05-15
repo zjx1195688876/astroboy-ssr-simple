@@ -1,4 +1,4 @@
-const BaseController = require('../base/BaseNewController');
+const BaseController = require('BaseNewController');
 
 class EduBaseController extends BaseController {
   async init() {
